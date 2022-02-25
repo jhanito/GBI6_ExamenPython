@@ -1,7 +1,7 @@
 ## Datos Personales 
 ### Nombre: Torres Montaquiza Jhanina Nicole
 ### correo institucional:jhanito10@gmail.com
-### Materia: Bioinformatica 
+### Materia: Bioinformatica. 
 
 ## Caracteristicas del computador 
 
